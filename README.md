@@ -1,6 +1,8 @@
 # desktopdotfiles
 dotfiles for my desktop pc. dont blame me if stuff doesnt work for you >:(
 
+make sure user is set as your own user in all these fucking config files
+
 ![Screenshot.png](https://github.com/summernoway/desktopdotfiles/blob/main/Screenshot.png)
 
 # other github projects used
