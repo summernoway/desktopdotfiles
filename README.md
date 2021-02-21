@@ -16,6 +16,8 @@ im not really comfortable with submitting code that i havent edited to this repo
 - https://github.com/YottaGitHub/Nord-Glasscord (not seen in screenshot but i use this bd theme)
 - https://github.com/zodd18/openbox-nord-theme
 
+everything else can be installed from package managers (or, in the case of dmenu, by compiling it yourself)
+
 # other stuff to mention
 wallpaper link: http://cdn.wallpaperhi.com/2480x1550/20121205/video%20games%20touhou%20night%20aurora%20borealis%20cirno%20fairies%20digital%20art%20skyscapes%202480x1550%20wallpaper_www.wallpaperhi.com_62.jpg
 
