@@ -1,5 +1,5 @@
 # desktopdotfiles
-dotfiles for my desktop pc
+dotfiles for my desktop pc. dont blame me if stuff doesnt work for you >:(
 
 ![Screenshot.png](https://github.com/summernoway/desktopdotfiles/blob/main/Screenshot.png)
 
